@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PRESS RELEASES RELATED STRINGS [!need override!] -->
+    <string name="press_release_title"/>
+    <string name="press_release_read_title"/>
+    <string name="press_release_reading_time"/>
+    <string name="press_release_share"/>
+    <string name="press_release_posted_at"/>
+    <string name="press_release_dashboard_news"/>
+</resources>
